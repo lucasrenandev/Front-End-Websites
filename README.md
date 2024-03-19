@@ -1,4 +1,4 @@
-# WEBSITES -  HTML | CSS | JAVASCRIPT
+# Websites -  HTML5 | CSS3 | JavaScript | React.js
 
 #### Website
 
