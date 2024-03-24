@@ -1,4 +1,5 @@
-# 💥 Websites -  HTML5 | CSS3 | SASS | JavaScript | React.js 💥
+# Websites
+## ✨ HTML5 | CSS3 | SASS | JavaScript | React.js ✨
 
 #### Website
 
