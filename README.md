@@ -49,9 +49,9 @@
 * [E-commerce 03 - ReactJS](https://github.com/lucasrenandev/ecommerce03-reactjs)
 * [E-commerce 03](https://github.com/lucasrenandev/ecommerce-website-03)
 * [E-commerce 02 - ReactJS](https://github.com/lucasrenandev/ecommerce02-reactjs)
-* [E-commerce 02](https://github.com/lucasrenandev/ecommerceWebsite_02)
+* [E-commerce 02](https://github.com/lucasrenandev/ecommerce-website-02)
 * [E-commerce 01 - ReactJS](https://github.com/lucasrenandev/ecommerce01-reactjs)
-* [E-commerce 01](https://github.com/lucasrenandev/ecommerceWebsite-01)
+* [E-commerce 01](https://github.com/lucasrenandev/ecommerce-website-01)
 * [E-commerce Page - ReactJS](https://github.com/lucasrenandev/ecommerce-page-reactjs)
 * [E-commerce Page](https://github.com/lucasrenandev/ecommerce-page)
 
